@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireBase Tutuorial</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_id">Enter your ID</string>
+    <string name="enter_your_roll">Enter your roll</string>
+    <string name="register">Register</string>
+    <string name="see_all_record">See all record</string>
+</resources>

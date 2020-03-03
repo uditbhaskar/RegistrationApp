@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "235524460684",
+    "firebase_url": "https://fir-tutuorial-98515.firebaseio.com",
+    "project_id": "fir-tutuorial-98515",
+    "storage_bucket": "fir-tutuorial-98515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235524460684:android:97b4b2256d8243b73e6ba9",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutuorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235524460684-rc94ms5e1c70plv3g5msb6qf4k1gtdrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasetutuorial",
+            "certificate_hash": "1260421f44e8231eece5cc9fe81113ba6c6cc1f0"
+          }
+        },
+        {
+          "client_id": "235524460684-rncoaij6cnjk57v3m0o6f4o2enkubcm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzZehUkj4chjDq5hm9IMonIF_G-WoWlj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235524460684-rncoaij6cnjk57v3m0o6f4o2enkubcm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
